@@ -1,0 +1,14 @@
+Over the past two years, the most impactful initiative I have led is actively developing my skills in Data Science to stay ahead in the AI era. Recognizing the critical role of data in decision-making, I enrolled in a 9-month Data Science course in October 2026, which is still ongoing, to enhance my abilities with modern tools. During this program, I have gained hands-on experience in Python (NumPy, Pandas) for data wrangling, machine learning using scikit-learn, big data processing with PySpark and Databricks, and data visualization using Power BI, Matplotlib, and Seaborn. I have also worked with Azure Data Factory for building data pipelines, Microsoft SQL Server for database management, and web scraping using BeautifulSoup. As a result, I have developed a stronger analytical mindset and practical skills, enabling me to leverage data effectively and solve real-world problems using AI and data-driven tools.
+
+----------------
+
+
+
+----------------
+
+
+
+----------------
+
+
+
